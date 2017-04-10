@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi Humans!
+
+Alex here, just learing how to code and getting ready to change the world.
